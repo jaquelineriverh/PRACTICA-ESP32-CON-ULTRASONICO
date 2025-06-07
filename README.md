@@ -128,7 +128,7 @@ void loop()
 Cuando haya funcionado, verás los valores dentro del LCD 16x2 como se muestra en la siguente imagen.
 
 
-![]()
+![](https://github.com/jaquelineriverh/PRACTICA-ESP32-CON-ULTRASONICO/blob/main/EVIDENCIA%203%20IMAGEN.png)
 
 ### EVIDENCIAS
 
