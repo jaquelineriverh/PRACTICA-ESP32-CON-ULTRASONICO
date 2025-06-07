@@ -132,6 +132,10 @@ Cuando haya funcionado, verás los valores dentro del LCD 16x2 como se muestra e
 
 ### EVIDENCIAS
 
+
+https://github.com/user-attachments/assets/e178b657-6386-4786-8853-6430b924e337
+
+
 # Créditos
 
 Desarrollado por **RIVERA HERNANDEZ JAQUELINE**
