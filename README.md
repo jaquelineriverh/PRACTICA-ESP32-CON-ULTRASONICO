@@ -112,7 +112,7 @@ void loop()
 5.Hacer la conexion de LCD con la ESP32 como se muestra en la siguente imagen.
 
 
-![]()
+![](https://github.com/jaquelineriverh/PRACTICA-ESP32-CON-ULTRASONICO/blob/main/ULTRASONIC%20CON%20LCD.png)
 
 
 ### Instrucciónes de operación
