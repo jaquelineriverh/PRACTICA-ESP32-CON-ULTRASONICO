@@ -130,9 +130,7 @@ Cuando haya funcionado, verás los valores dentro del LCD 16x2 como se muestra e
 
 ![]()
 
-### Evidencias
-
-
+### EVIDENCIAS
 
 
 
